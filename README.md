@@ -1,34 +1,11 @@
-# lexical analyzer 
-Program a simple lexical analyzer that will build a symbol table from given stream of chars. You will need to read a file named "input.txt" to collect all chars. For simplicity, input file will be a C program without headers and methods. Then you will identify all the numerical values, identifiers, keywords, math operators, logical operators and others [distinct]. 
+#Bracu_Lab_Solution
+This repo consists all lab task of cse curriculum . Everyone is welcome to contribute with a good documentation! 
+Fellow students would be helpful to get hint and support on coding on various types of question.
+Proactive students can practice coding for the upcoming courses too!
 
-#Input:
-```
-int a, b, c;
-float d, e;
-a = b = 5;
-c = 6;
-sum;
-if (a >= b)
-{
-	c = a - b;
-	e = d * 2.0;
-}
-else
-{
-	d = e + 6.0;
-	b = a % c;
-	sum=b+d;
-}
-```
+#Install
+Download and run for usage.
+Questions for the assignment given inside question folder of question task.
 
-#Output:
-```
-Keywords:  ['int', 'float', 'if', 'else']
-mathoperator:  ['=', '-', '*', '+', '%']
-logicalOperator:  ['>=']
-NumericalValue:  ['5', '6', '2', '0', '.', '6', '0']
-identifier:  ['a', 'b', 'c', 'd', 'e', 'sum']
-other:  [',', ';', '(', ')', '{', '}']
 
-```
 
