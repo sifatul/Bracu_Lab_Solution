@@ -1,0 +1,5 @@
+Test is the class that contains the method & Tester is the main method.
+Understand how the code flow works by running the tester.
+Tester is for Test
+Testerr2 is for Test2
+So on so forth…
