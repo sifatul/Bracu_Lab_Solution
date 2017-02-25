@@ -1,0 +1,15 @@
+6 10 (citys,roads)
+Arad (Starting Location)
+Mughal (Destination Location)
+Odarea , Sibiu
+Farara , Urziccini
+Riminecu , Pitesi
+Arad , Riminecu
+Riminecu , Sibiu
+Pitesi , Odarea
+Pitesi , Farara
+Farara , Bucharest
+Bucharest , Sibiu
+Urziccini , Bucharest
+Arad , Odarea
+Farara , Mughal
