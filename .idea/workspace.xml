@@ -2,232 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94038ee1-af35-45ac-b6f3-64dad55d0df9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/.idea/Bidirectional Search.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/question/CSE422-Lab01.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/src/Main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AI/bidirectionalSearch/src/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/.idea/Compiler.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/.idea/lab_1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/question/Assignment1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/src/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Compiler/lexical_analyzer/src/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/find_avg.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/find_max.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/find_min.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/long_data_type.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/loop.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/seconds_to_other_units.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Classwork/timeconverter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/CSE110-Lab03v21.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercise on input of different data types/task1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercise on input of different data types/task2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercise on input of different data types/task3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercise on input of different data types/task4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercise on input of different data types/task5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercises on data types/task1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercises on data types/task2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercises on data types/task3_1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercises on data types/task3_2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercises on data types/task4_1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab03/Exercises on data types/task4_2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/CSE110 Lab4V24.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task5_1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task5_2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task5_3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task5_4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task8_1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task8_2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task8_3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task8_4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task8_5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab04/Lab4Task9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/CSE110 Lab5v6.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task01.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task12.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task9a.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task9b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task9c.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab05/task9d.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/Lab 7v3.doc.lnk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p14.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p15.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7p9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab07/lab7squaretest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/Lab8v12 (Array Lab 1).docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab08/lab8arraytask9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/Lab9v9 (Array Lab 2).docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab09/lab9task9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Labv5.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Task_1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Task_1_tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Task_2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Task_2_Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Task_3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab10/Task_3_Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/How to understand this lab.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Test2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Test3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Test4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Tester2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Tester3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE110/Summer_15/Lab11/Tester4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Additional Exception problems.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/CSE111 Lab01 v3.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t15.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t16.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t17.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t18.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t19.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t20.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t21.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t22.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab1(Star_lab)/lab1t9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/Task5/Lab10Task05.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/Task5/MyReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/Task5/itsNotIntegerItsException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/task1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/task2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/task3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/task4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab10/task6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t1a.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t1b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab2/lab02t9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/Lab 1 v10.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/ascending.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/lab03_0t1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/lab03_0t2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/lab03_0t3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/lab03_0t4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/lab03_0t5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3.0/lab03_0t6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7a.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7b.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7c.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7d.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7e.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7f.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7g.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7h.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7i.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7j.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7k.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7l.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7m.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7n.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7o.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab3/lab03t7p.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab6/Lab06v12.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab6/StringMethodsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/Task03.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task12.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task13.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task14.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/task9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/tester info.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab7/tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/Guitar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/Instructions.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/Instrument.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/Keyboard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/Violin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task15/instrumentTester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task16/BBAStudent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task16/Instructions.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task16/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task16/TestStudent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task17/Fruit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task17/Instructions.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task17/Jackfruit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task17/Mango.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lab_Solutions/CSE111/Summer_15/Lab8/Task17/fruitTester.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -240,12 +15,25 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSE420/Spring-17/lexical_analyzer/src/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="8" />
     <option name="width" value="1346" />
     <option name="height" value="700" />
   </component>
@@ -264,8 +52,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,12 +66,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bracu_Lab_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bracu_Lab_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE420" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexical_analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bracu_Lab_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bracu_Lab_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE420" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexical_analyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bracu_Lab_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bracu_Lab_Solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSE420" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tommy" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -299,24 +149,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="700" extended-state="1" />
-    <editor active="false" />
+    <frame x="8" y="0" width="1346" height="700" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -327,5 +177,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSE420/Spring-17/lexical_analyzer/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
